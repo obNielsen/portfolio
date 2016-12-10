@@ -19,5 +19,8 @@
   "homepage": "https://github.com/obNielsen/portfolio#readme",
   "dependencies": {
     "bower": "^1.8.0"
+  },
+  "devDependencies": {
+    "bower": "^1.8.0"
   }
 }
