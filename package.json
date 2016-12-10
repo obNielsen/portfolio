@@ -1,0 +1,23 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "This repository is ment for the development of a portfolio page.\r It contains code used for developing a webapplication.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/obNielsen/portfolio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/obNielsen/portfolio/issues"
+  },
+  "homepage": "https://github.com/obNielsen/portfolio#readme",
+  "dependencies": {
+    "bower": "^1.8.0"
+  }
+}
